@@ -1,4 +1,4 @@
-package com.dark.darkverse;
+package com.dark.deathfourz;
 
 import io.flutter.embedding.android.FlutterActivity;
 

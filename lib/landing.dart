@@ -113,7 +113,7 @@ class _LandingPageState extends State<LandingPage> with SingleTickerProviderStat
                                     colors: [accentPurple, Colors.white],
                                   ).createShader(bounds),
                                   child: const Text(
-                                    "DarkVerse",
+                                    "DeathFourz",
                                     style: TextStyle(
                                       fontSize: 34,
                                       fontWeight: FontWeight.w800,
@@ -262,7 +262,7 @@ class _LandingPageState extends State<LandingPage> with SingleTickerProviderStat
 
                     // --- FOOTER ---
                     Text(
-                      "© 2026 DarkVerse",
+                      "© 2026 DeathFourz",
                       style: TextStyle(color: Colors.white38, fontSize: 11),
                     ),
                     const SizedBox(height: 20),

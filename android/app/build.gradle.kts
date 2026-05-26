@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.dark.darkverse"
+    namespace = "com.dark.deathfourz"
     compileSdk = 36
     ndkVersion = "27.0.12077973"
 
@@ -20,7 +20,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.dark.darkverse"
+        applicationId = "com.dark.deathfourz"
         minSdk = flutter.minSdkVersion                         // ✅ ganti di sini
         targetSdk = 36
         versionCode = flutter.versionCode

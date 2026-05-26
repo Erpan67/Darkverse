@@ -29,7 +29,7 @@ class _LoginPageState extends State<LoginPage>
   late AnimationController _controller;
   late Animation<double> _fadeAnim;
 
-  // --- Tema Warna (DarkVerse Style) ---
+  // --- Tema Warna (DeathFourz Style) ---
   final Color bgDark = const Color(0xFF0D0221);
   final Color bgSecondary = const Color(0xFF1A0533); // Warna Solid untuk Input
   final Color primaryPurple = const Color(0xFF7B1FA2);

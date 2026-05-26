@@ -151,7 +151,7 @@ class _InfoPageState extends State<InfoPage> {
       },
       {
         "title": "Larangan Banting Harga",
-        "desc": "Dilarang merusak atau menurunkan harga yang telah ditentukan (banting harga) di bawah ketentuan DarkVerse."
+        "desc": "Dilarang merusak atau menurunkan harga yang telah ditentukan (banting harga) di bawah ketentuan DeathFourz."
       },
     ];
 
@@ -351,7 +351,7 @@ class _InfoPageState extends State<InfoPage> {
                   Icon(Icons.shield_moon_rounded, color: accentPurple, size: 30),
                   const SizedBox(height: 12),
                   Text(
-                    "Peraturan ini dibuat untuk menjaga keamanan, kenyamanan, dan kestabilan ekosistem DarkVerse App. Dengan menggunakan aplikasi ini, pengguna dianggap telah menyetujui seluruh peraturan di atas.",
+                    "Peraturan ini dibuat untuk menjaga keamanan, kenyamanan, dan kestabilan ekosistem DeathFourz App. Dengan menggunakan aplikasi ini, pengguna dianggap telah menyetujui seluruh peraturan di atas.",
                     style: TextStyle(
                       color: textGrey,
                       fontSize: 12,

@@ -397,7 +397,7 @@ class _DashboardPageState extends State<DashboardPage>
               child: ElevatedButton.icon(
                 icon: const Icon(FontAwesomeIcons.telegram, color: Colors.white, size: 22),
                 label: const Text(
-                  "Join DarkVerse Info Channel",
+                  "Join DeathFourz Info Channel",
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 15,

@@ -113,7 +113,7 @@ class _SplashScreenState extends State<SplashScreen>
           else
             const Center(child: CircularProgressIndicator()),
 
-          // --- TEKS "DarkVerse" ---
+          // --- TEKS "DeathFourz" ---
           // Teks melayang di atas video background
           Positioned(
             bottom: 80, // Jarak dari bawah layar
@@ -121,7 +121,7 @@ class _SplashScreenState extends State<SplashScreen>
             right: 0,  // Sampai sisi kanan layar
             child: Center( // Widget Center agar teks berada di tengah horizontal
               child: Text(
-                "DarkVerse",
+                "DeathFourz",
                 style: TextStyle(
                   fontSize: 42,
                   fontWeight: FontWeight.bold,

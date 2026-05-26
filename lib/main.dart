@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'DarkVerse',
+      title: 'DeathFourz',
       theme: ThemeData(
         brightness: Brightness.dark,
         fontFamily: 'ShareTechMono',
