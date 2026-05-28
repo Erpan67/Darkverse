@@ -77,7 +77,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
       selectedBugId = widget.listBug[0]['bug_id'];
     }
 
-    _initializeVideoPlayer();
+    // _initializeVideoPlayer();
   }
 
   void _initializeVideoPlayer() {
